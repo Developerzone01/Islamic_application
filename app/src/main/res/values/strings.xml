@@ -1,0 +1,176 @@
+<resources>
+
+    <string name="app_name">Islamic Application</string>
+
+    <string-array name="wude_english">
+    <item>Step:1- Make niyyah (Intention) to perform Wudu. Niyyah is the Islamic concept of
+        performing an act for the sake of Allah.</item>
+        <item>Step:2- Wash your hands. Use your left hand to wash your right hand. Do this three
+        times. After that, use your right hand to wash your left hand three times.</item>
+        <item>Step:3- Take water into your mouth. Use your right hand to cup water into your
+        mouth three times. Swish it around in your cheeks and the back of your throat.</item>
+        <item>Step:4- Inhale water into your nose. Use your right hand to cup water and inhale
+        it into your nose three times. You can use your left hand to close one nostril and blow out
+        if you need to.</item>
+        <item>Step:5- Wash your face. Wash your face three times by spreading your hands from
+        your right ear to the left, and from the edge of the hair to the chin.</item>
+        <item>Step:6- Wash your lower arms from wrists to elbows, leaving no part dry. From your
+        wrist to your elbow, wash your right arm with your left hand three times and then wash your
+        left arm with your right hand three times.</item>
+        <item>Step:7- Clean your head. Using your wet hands, gently wipe your forehead from the
+        eyebrow to the hairline. Also wipe down your hair, the back of your neck, and your temples.
+        Do this one time.</item>
+        <item>Step:8- Wipe your ears inside and out. With the same water, use your finger to
+        clean all the crevices of your ear. Use your thumb to clean behind your ears from the bottom
+        upward. This is also done one time.</item>
+        <item>Step:9- Wash each of your feet. Clean up to the ankles and be sure water goes
+        between the toes. Use your pinky finger and go through each toe to eliminate anything
+        between. Start with your right foot and scrub each foot three times.</item>
+
+    </string-array>
+    <string-array name="wudu_urdu">
+        // Urdu strings for translated version
+        <item>اول: سب سے پہلے وضو کی نیت کریں۔ نیت اللہ سے رجوع کرنے کاایک اسلامی تصور ہے۔</item>
+        <item>دوم: دونوں ہاتھ دھوئیں۔ بائیں ہاتھ سے دایاں ہاتھ دوئیں۔
+یہ عمل تین بار دہرائیں۔ اس کے بعد دائیں ہاتھ سے بایاں ہاتھ دھوئیں۔         </item>
+
+        <item>سوم: منہ میں پانی ڈالیں۔پانی دائیں ہاتھ سے ڈالیں۔
+یہ عمل تین بار دہرائیں۔ پانی حلق تک جانا چاہیے۔         </item>
+        <item>چہارم: ناک میں پانی ڈالیں۔
+ناک میں پانی دائیں ہاتھ سے ڈالیں۔ بائیں ہاتھ سے ناک صاف کریں۔ یہ عمل تین بار دہرائیں۔          </item>
+        <item>پنجم: منہ دھوئیں۔منہ دھوتے وقت اس بات کا خیال رکھیں کہ
+پانی ایک کان سے دوسرے کان تک اور پیشانی سے ٹھوڑی تک جانا چاہیے۔         </item>
+        <item>ششم: دونوں بازووُں کو کلائی سے کہنی تک دھوئیں اور کوئی حصہ خشک نہ رہنے دیں۔ دائیں
+ہاتھ سے بایاں اور بائیں ہاتھ سے دایاں ہاتھ دھوئیں۔ یہ عمل تین بار دہرائیں۔          </item>
+        <item>سر پر گیلے ہاتھ پھیر کر صاف کریں۔
+ہاتھوں کو پہلے کنپٹیوں تک لے کر آئیں پھر گردن پر لے جائیں۔         </item>
+        <item>ہشتم: کانوں میں انگلی ڈال کر صاف کریں۔
+کانوں کے اندر اور باہر اچھی طرح انگلی پھیریں۔ انگوٹھے سے کان کی لو کو صاف کریں۔         </item>
+        <item>نہم: دونوں پاوُں دھوئیں۔ ٹخنے سے پاوُں کے انگوٹھے اور ایڑھی تک پانی ڈالیں۔
+پاوُں کی انگلیاں اچھی طرح دھوئیں تا کہ دھول مٹی وغیرہ صاف ہو جائے۔          </item>
+    </string-array>
+    <string-array name="nimaz_eng">
+<item>1: Prepare for Salah. Preparing for prayer includes cleaning yourself, wearing clean
+            clothes, and finding a clean and pure place to pray.</item>
+        <item>2: Stand to face the Qibla. The Qibla is the direction towards the Kaaba. Some
+            compasses modified for this purpose are now available. Many hotel rooms also have the
+            Qibla direction marked somewhere on the roof.</item>
+        <item>3: Make the intention to pray. You do not need to say it out loud, but you will need to
+            know which prayer of the day you are performing, what will be the type of the rakaat,
+            and the number of rakaats.</item>
+        <item>4: Perform the Takbiratul Ihram. This starts the prayer. Raise your hands, palms facing
+            forwards, up till your ear lobes (or to your shoulders if you are a woman). Say out
+            loud \"Allahu Akbar\"</item>
+        <item>5: Perform Qiyam. Qiyam is where you stand up, your hands folded across your chest.
+            Begin reciting Surah Al Fatiha (the first chapter in the order of the Quran) and
+            another portion (Surah) of the Qur\'an.</item>
+        <item>6: Perform the Ruk\'u. The ruku is basically a bow. You unfold your hands and bow,
+            then placing your hands on your knees.Your back should become parallel to the ground,
+            almost like carrying a glass of water on your back.</item>
+        <item>7: Rise up. Rise up from the bow, while saying, \"Sam\'i Allahu liman hamidah
+                (سمع الله لمن حمده) which means Allah listens to those who praise Him. Then say, Rabana
+            walakel hummed (ربنا لك الحمد)              </item>
+        <item>8: Perform the prostration. Say Allahu Akbar (الله أَكْبَر) once again and prostrate on the
+            ground. Make sure you have placed your forehead, palms, and knees all on the floor,
+            touching the ground.</item>
+        <item>9: Rise to a sitting position, saying Allahu Akbar (الله أَكْبَر). When you are in this
+            position, you must keep your eyes staring at your lap. Men must turn up the heel,
+            and bend the toes, of the right foot. Women must keep both their feet and soles up
+            under their body.</item>
+        <item>10: Prostrate again, saying Allahu Akbar (الله أَكْبَر). The second prostration is exactly
+            identical to the first one.</item>
+        <item>11: Rise up to proceed to the next raka\'at, saying Allahu Akbar (الله أَكْبَر). The second
+            raka\'at is identical to the first one up till the second prostration, but without the
+            Takbiratul Ihram.</item>
+    </string-array>
+
+    <string-array name="nimaz_ur">
+<item>۔ نماز کی تیاری: نماز کی ادائیگی کے لیے ضروری ہے
+            کہ آپ کا جسم، کپڑے، اور نماز پڑھنے کی جگہ پاک اور صاف ہو۔ اس کے بعد وضو کریں۔</item>
+        <item>۔ قبلہ رخ کھڑے ہو جائیں اور
+            اپنی نظریں سجدے کی جگہ پر مرکوز رکھیں اور آپ کے پاوُں کے درمیان جگہ برابر ہونی چاہیے۔</item>
+        <item>نماز کی نیت کریں۔ اللہ اکبر کہیں اور اپنے ہاتھوں کو کانوں تک اٹھائیں۔</item>
+        <item>تکبیرۃ‘ الاحرام کہیں۔ نماز کا آغاز ہو چکا ہے۔ اب اپنے ہاتھ
+            پیٹ پراس طرح باندھ لیں کہ ایک ہتھیلی دوسری کے اوپر آئے۔ اب باآوازِ بلند اللہ اکبر کہیں۔</item>
+        <item>قیام میں کھڑے ہو جائیں اور سورۃ فاتحہ کی تلاوت کریں۔ اس کے بعد کوئی اور سورۃ تلاوت کریں۔</item>
+        <item>رکوع کریں۔ اللہ اکبر کہیں اور اپنے ہاتھ کھول کر گھٹنوں پر رکھ لیں۔ آپکی کمرزمین کے بالکل متوازی ہونی چاہیے۔
+            کمر کے اوپر یا نیچے ہونے سے رکوع نہیں ہوگا۔ تین بار سبحانَ ربی العظیم کہیں۔</item>
+        <item>رکوع سے سیدھا ہونے کے بعد باآوازِ بلند لمع اللہ لمن حمدہ کہیں۔ پھر کہیں ربنا لک الحمدہ۔</item>
+        <item>اللہ اکبر کہیں اور سجدہ کریں۔ اس بات کا خیال رکھیں کہ آپ کی پیشانی، ہتھیلیاں، گھٹنے اور پاوُں زمین کے
+            ساتھ لگے ہوں اور کہنیاں زمین سے اٹھی ہوں۔ سجدے کے دوران سبحان ربی الاعلیٰ تین بار کہیں۔</item>
+        <item>اللہ اکبر کہتے ہوئے تشہد میں بیٹھ جائیں۔ اس حالت میں اپنی آنکھیں گود پر مرکوز رکھیں۔</item>
+
+        <item>اللہ اکبر کہتے ہوئے دوبارہ سجدہ کریں۔ سجدے کا طریقہ وہی ہے جو پہلے بیان کیا گیا ہے۔</item>
+        <item>اللہ اکبر کہہ کر اگلی رکعت شروع کریں۔ دوسری رکعت کا طریقہ بھی پہلی کی طرح ہی ہے۔</item>
+    </string-array>
+
+    <string-array name="hajj_english">
+<item>Step:1- Preparing for the Hajj. Be ready to reach at mina by 8th of Dhu al-Hijjah night.
+            Shave, comb your hair, trim or shape your facial hair, cut your nails, and remove unwanted body hair.
+            Bathe (or perform wudu, partial ablution) with the intention of Ihram.</item>
+        <item>Step:2- intention to perform Hajj.for men Ihram sheets wrap one around your waist
+            and wear the other over and do Niyyah: \"O Allah! I intend to perform Hajj.
+            Please make it easy for me and accept it from me. Amen</item>
+        <item>Step:3- Head to Mina. After the sunrise travel towards mina and so
+            spend your time praying and in tasbih,in mina perform Dhuhr, Asr, Magrib,Isha and
+            9th Dhu al-Hijjah prayers and stay there.</item>
+        <item>Step:4- Head to Arafat. On the second day of Hajj, pilgrims travel to Arafat,
+            Pilgrims must reach Arafat by the afternoon because, at this time, a ritual called Waquf begins.</item>
+        <item>Step:5- Pray in Muzdalifah. After sundown, pilgrims head to a place called Muzdalifah between Mina
+            and Arafat. Here, they offer an evening prayer to God (Maghrib) and spend the night sleeping on
+            the ground</item>
+        <item>Step:6- Perform Ramy in Mina. Before the sun rises, pilgrims head back to Mina. Here,
+            pilgrims participate in a ceremony meant to symbolize stoning the devil. Pilgrims throw
+            seven consecutive pebbles at a special stone monument called the Jamrat al Aqabah.</item>
+        <item>Step:7- Offer a sacrifice. After the Ramy ceremony, it\'s necessary to offer an animal
+            sacrifice (Qurbani) to God</item>
+        <item>Step:8- Get your hair cut or shaved. Men may have their hair completely shaved or cut into a
+            very short haircut,Women can have a short lock of hair cut - their heads are not shaved.</item>
+        <item>Step:9- Perform the Tawaf and Sa\'ey. the Hajj requires pilgrims to perform the Tawaf and
+            Sa\'ey rituals at the Ka\'bah and the nearby hills.</item>
+        <item>Step:10- Repeat Ramy after sundown on the fourth and fifth days. In Mina, you must once
+            again participate in the stoning ritual. This time, you will not throw pebbles only at the Jamrat
+            al Aqabah.</item>
+        <item>Step:11- Perform the Farewell Tawaf. Finally, your Hajj has come to a close by walking
+            around the Ka\'bah seven times as before</item>
+    </string-array>
+
+    <string-array name="hajj_urdu">
+<item>اول: حج کی تیاری-  آٹھ ذی الحجہ کی رات کومنٰی جانے کی تیاری مکمل کرلیں-
+    سر کے با ل سنواریں،خط بنوایں، ناخن کاٹیں،
+    جسم کےغیرضروری بالوں کو صاف کریں- احرام کی نیت سے غسل کریں ورنہ وضو کر یں.</item>
+        <item>دوم: حج کی نیت-  مرد ایک سفیذ چا د ر با ند ھیں اور دوسری اوڑھیں
+    اور د ل میں نیت کریں کہ اے اللہ میں حج کر نا
+    چا ہتا ھوں میرے لیے اِس کو آسان بنا دے اورقبول کر آمین-</item>
+        <item>سوم: منیٰ کو روانگی-  طلوح آفتاب کے بعد منیٰ روانہ ھوں اور راستہ بھر زیادہ سے زیادہ تَلبِیَہ پڑھیں
+    اور دیگر تسبیحات پڑھتے ر ھیں- منٰی میں ظہر، عصر، مغرب، عشاء
+    اور 9 ذوالحجہ کی فجر کی نماز ادا کریں اور رات منیٰ میں رھیں۔</item>
+        <item>چہارم: عرفات کوروانگی- حج کے دوسرے دن عرفات کی طرف جائیں۔
+    حا جیوں کو دوپہرتک ضرورعرفات پہنچنا ھوتا ھے تا کے وقوف ادا کریں ۔</item>
+        <item>پنجم: مُزدَلِفَہ میں عبادت کرنا- جب سورج ڈوب جاۓ توحاجیوں کومُزدَلِفَہ روانہ ہوجانا چاہیے جو منیٰ اور عرفات کے درمیان ھے-
+            یہاں وہ شام اور رات کی نماز پڑتے ھیں اوروہاں ہی رات گزارتے ھیں-</item>
+        <item> ششم: منٰی میں شیطان کو پتھر مارنا-
+    سورج نکلنے سے پہلے حاجیوں کو منیٰ جانا ھوتا ھے یہاں ایک رسم ادا کی جاتی ھےجس میں سارے
+    حاجیوں کو شیطان کو پتھر مارنے ھوتے ھیں-پھرجمرتہ العقبہ پر پہنچ کرسات لگاتار پتھر ماریں</item>
+        <item>ہفتم: قربانی کرنا- رمی کے بعد ہرحاجی کے لیےضروری ھے کےوہ الگ الگ قربانی کرے</item>
+        <item>ہشتم:  سرکےبال منڈواۓ-  مردوں کیلے لازمی ھے کے سارے بال منڈوائیں یا
+    بلکل چھوٹے چھوٹے رہنے دیں عورتوں کےسارے نہی تھورےتھورے کاٹے جاتے ھیں-</item>
+        <item>نہم: طواف اور سعی کریں-
+    اسکے بعد حاجی کو چاہیے کے کعبہ اور نزدیک جو پہاڑی ھے اسکا طواف اور سعی کریں-</item>
+        <item>دہم: پھر رمی کریں-
+    چھوتھے اور پانچویں دن سورج غروب ھونے کے بعد پھر پتھر پیھنکنے والی رسم میں حصہ لیں،
+    اس دفعہ آپ نے صرف جمرتہ العقبہ پر پتھر نہی پھینکتے بلکہ دوسرے پہاڑوں پر بھی</item>
+        <item>یازدہم: آخری طواف ادا کریں-
+    پھر آخری طواف کرکریں سا ت دفعہ کعبہ کا چکر لگا کرجیسے کے پہلے کیا تھا-</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
+
+
+
+
+

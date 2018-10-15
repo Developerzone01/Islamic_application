@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="islamapp.islamicapplication.Wuzu_image_video_activity">
+
+    <Button
+        android:id="@+id/byimage"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_above="@+id/byvideo"
+        android:layout_alignEnd="@+id/byvideo"
+        android:layout_marginBottom="44dp"
+        android:backgroundTint="@android:color/white"
+        android:onClick="byimages"
+        android:text="By Images"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <Button
+        android:id="@+id/byvideo"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:backgroundTint="@android:color/white"
+        android:onClick="byvideo"
+        android:text="By Videos"
+        android:textColor="@android:color/holo_blue_dark" />
+
+</RelativeLayout>

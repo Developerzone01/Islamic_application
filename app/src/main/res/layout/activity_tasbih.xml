@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="#bff9ec"
+    android:layout_marginBottom="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="islamapp.islamicapplication.Tasbih">
+
+    <ImageView
+        android:background="@drawable/tasbih"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+
+        android:background="#bff9ec"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:textSize="80sp"
+        android:textStyle="bold"
+        android:textColor="#1e1e1e"
+        android:layout_gravity="center_horizontal"
+        />
+    <LinearLayout
+
+        android:layout_marginTop="40dp"
+        android:orientation="vertical"
+        android:background="#bff9ec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_marginTop="100dp"
+                android:id="@+id/click"
+                android:background="#55a953"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:text="Click"
+                android:onClick="click"
+                android:layout_marginLeft="40dp"
+                android:layout_weight="1"
+                android:layout_marginRight="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="14dp" />
+
+            <Button
+                android:id="@+id/reset"
+                android:background="#55a953"
+                android:layout_width="40dp"
+                android:text="Reset"
+                android:layout_weight="1"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="40dp"
+                android:layout_height="60dp"
+
+                android:onClick="reset"
+
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
